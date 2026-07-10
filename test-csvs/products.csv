@@ -1,0 +1,33 @@
+SKU,Name,Price,Stock,Category
+PROD-001,Wireless Ergonomic Mouse,49.99,120,Electronics
+PROD-002,Mechanical Gaming Keyboard,89.99,75,Electronics
+PROD-003,UltraWide 34in Monitor,349.99,25,Electronics
+PROD-004,Noise Cancelling Headphones,199.99,40,Electronics
+PROD-005,Bluetooth Smart Speaker,29.99,150,Electronics
+PROD-006,USB-C Multiport Adapter,19.99,200,Electronics
+PROD-007,HD Webcam 1080p,39.99,90,Electronics
+PROD-008,External SSD 1TB,119.99,60,Electronics
+PROD-009,Portable Power Bank 20000mAh,24.99,110,Electronics
+PROD-010,Dual Band Wi-Fi Router,59.99,45,Electronics
+PROD-011,Ergonomic Office Chair,179.99,15,Office Supplies
+PROD-012,Height Adjustable Desk,299.99,8,Office Supplies
+PROD-013,LED Desk Lamp,14.99,80,Office Supplies
+PROD-014,Leather Notebook A5,12.99,250,Office Supplies
+PROD-015,Premium Gel Pen Set,9.99,300,Office Supplies
+PROD-016,Desk Organizer OrganizerTray,18.99,140,Office Supplies
+PROD-017,Dry Erase Whiteboard,34.99,30,Office Supplies
+PROD-018,Paper Shredder Cross-Cut,49.99,18,Office Supplies
+PROD-019,Stainless Steel Water Bottle,19.99,175,Kitchen
+PROD-020,Ceramic Coffee Mug,8.99,220,Kitchen
+PROD-021,French Press Coffee Maker,27.99,50,Kitchen
+PROD-022,Electric Kettle 1.7L,34.99,65,Kitchen
+PROD-023,Digital Kitchen Scale,15.99,100,Kitchen
+PROD-024,Silicon Cooking Utensils Set,22.99,85,Kitchen
+PROD-025,Food Storage Containers Set,29.99,70,Kitchen
+PROD-026,Running Shoes Men,79.99,40,Apparel
+PROD-027,Yoga Mat Eco-Friendly,24.99,95,Fitness
+PROD-028,Adjustable Dumbbell Set,129.99,12,Fitness
+PROD-029,Resistance Bands Kit,14.99,180,Fitness
+PROD-030,Waterproof Backpack 30L,45.99,55,Apparel
+PROD-031,Travel Neck Pillow,11.99,130,Apparel
+PROD-032,Polarized Sports Sunglasses,18.99,90,Apparel
